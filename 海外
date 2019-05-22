@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 ,====== 海外 ======
+http://10/10.m3u8
+#EXTINF:-1 ,凯亚精致农业电视台
+http://61.216.177.73/sta/ch1865003.m3u8
+#EXTINF:-1 ,靖天日本台
+http://61.58.60.230:9000/live/243.m3u8
+#EXTINF:-1 ,本港台
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 ,韩国音乐台
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 ,HCTV
+http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
+#EXTINF:-1 ,WFCHD
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,加州音悦台
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
+#EXTINF:-1 ,越南ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 ,NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 ,Ynet TV
+http://162.244.83.199:1935/ynettv/ynettv/playlist.m3u8
+#EXTINF:-1 ,WGN9 Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 ,VTC5
+http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_w973536658_b2292000.m3u8
+#EXTINF:-1 ,TV-chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
+#EXTINF:-1 ,SEA TV
+http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8
+#EXTINF:-1 ,SCTV5(越南)
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
+#EXTINF:-1 ,奥地利KRAL
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 ,NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 ,M2O Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 ,FTV-TV
+http://edge1.everyon.tv/etv1/phd12/chunklist_w277710989.m3u8
+#EXTINF:-1 ,EBS-E
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBS-2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBS-1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,American
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 ,日本映画
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1 ,日本卫星剧场
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1 ,马来西亚台1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+#EXTINF:-1 ,马来西亚台2
+http://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
+#EXTINF:-1 ,天映频道
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 ,翡翠台
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 ,VOA
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0288_av-b.m3u8
+#EXTINF:-1 ,澳门莲花
+http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 ,BABY亲子台
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 ,ZEETV
+http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
+#EXTINF:-1 ,Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,TVB无线新闻
+http://m.567it.com/inews.m3u8
+#EXTINF:-1,RTM TV1
+https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,RTM TV2
+https://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b644000_sleng.m3u8
+#EXTINF:-1,RTM Parlimen
+https://rtm-live.glueapi.io/smil:rtmch007/chunklist_b305000_sleng.m3u8
+#EXTINF:-1,Astro Awani
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_04.m3u8
+#EXTINF:-1,Malaysia 1News
+https://rtm-live.glueapi.io/smil:rtmch006.smil/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1,Bernama News Channel
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w211690553_b650000_sleng.m3u8
+#EXTINF:-1,Channel NewsAsia
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1,Miao Mi TV
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/02.m3u8
+#EXTINF:-1,TVi
+https://rtm-live.glueapi.io/smil:rtmch004.smil/chunklist_b974000_sleng.m3u8
+#EXTINF:-1,奥多频道OKTO
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
+#EXTINF:-1 ,新加坡u8
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_1.m3u8

@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 ,====== CCTV ======
+http://0/0.m3u8
+#EXTINF:-1 ,CCTV1
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
+#EXTINF:-1 ,CCTV2
+http://ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/1.m3u8
+#EXTINF:-1 ,CCTV4
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
+#EXTINF:-1 ,CCTV5
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8
+#EXTINF:-1 ,CCTV6
+http://ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8
+#EXTINF:-1 ,CCTV8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/1.m3u8
+#EXTINF:-1 ,CCTV9
+http://ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8
+#EXTINF:-1 ,CCTV11
+http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/1.m3u8
+#EXTINF:-1 ,CCTV12
+http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/1.m3u8
+#EXTINF:-1 ,CCTV-14
+http://ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 ,CCTV-15
+http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8
+#EXTINF:-1 ,CCTV风云足球
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000618/index.m3u8
+#EXTINF:-1 ,CCTV体育赛事
+http://39.134.52.161/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8
+#EXTINF:-1 ,CCTV发现之旅
+http://ott.js.chinamobile.com/PLTV/4/224/3221227030/index.m3u8
+#EXTINF:-1 ,CCTV老故事
+http://ott.js.chinamobile.com/PLTV/4/224/3221227043/index.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000622/index.m3u8

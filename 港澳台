@@ -1,0 +1,207 @@
+#EXTM3U
+#EXTINF:-1 ,====== 港澳台 ======
+http://5/5.m3u8
+#EXTINF:-1 ,华视新闻
+http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
+#EXTINF:-1 ,台视新闻
+http://live.italkdd.com/cds160/hls/channel006/channel006.m3u8
+#EXTINF:-1 ,亚洲旅游
+http://live.italkdd.com/cds160/hls/channel007/channel007.m3u8
+#EXTINF:-1 ,台视新闻
+http://live.italkdd.com/cds160/hls/channel011/channel011.m3u8
+#EXTINF:-1 ,民视新闻台
+http://live.italkdd.com/cds160/hls/channel012/channel012.m3u8
+#EXTINF:-1 ,非凡新闻台
+http://live.italkdd.com/cds160/hls/channel013/channel013.m3u8
+#EXTINF:-1 ,大爱
+http://live.italkdd.com/cds160/hls/channel015/channel015.m3u8
+#EXTINF:-1 ,东森新闻
+http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
+#EXTINF:-1 ,三立台湾台
+http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
+#EXTINF:-1 ,600新闻台
+http://live.italkdd.com/cds160/hls/channel023/channel023.m3u8
+#EXTINF:-1 ,环球电视台
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 ,壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+#EXTINF:-1 ,壹新闻备
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:-1 ,tvbs新闻台
+http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 ,寰宇新闻
+http://ms003.happytv.com.tw/live/qZZukcjAmynYUIKm/index.m3u8
+#EXTINF:-1 ,东森财经新闻
+http://61.216.177.73/sta/ch1865036.m3u8
+#EXTINF:-1 ,东森新闻
+http://61.216.177.73/sta/ch1865042.m3u8
+#EXTINF:-1 ,东森新闻备
+http://125.227.35.176:18080/CtiNews/index.m3u8
+#EXTINF:-1 ,寰宇新闻1
+http://ms003.happytv.com.tw/live/qZZukcjAmynYUIKm/index.m3u8
+#EXTINF:-1 ,寰宇新闻2
+http://ms003.happytv.com.tw/live/eoKKDTxwPEsu8rhB/index.m3u8
+#EXTINF:-1 ,年代新闻
+http://ott.fmiptv.vip/vlives/iptv_live/gego.php?id=e0ec9e6e7888daeaa972733ea12ebd31
+#EXTINF:-1 ,中天新闻
+http://ax.micaesoft.com/YMitv/YMITV_CN_ZTnew.m3u8
+#EXTINF:-1 ,中天新闻备
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 ,民视
+http://ax.micaesoft.com/YMitv/YMITV_CN_MS.m3u8
+#EXTINF:-1 ,东森新闻台
+http://ax.micaesoft.com/YMitv/YMITV_CN_DSnew.m3u8
+#EXTINF:-1 ,国会频道1
+http://61.58.60.230:9000/live/123.m3u8
+#EXTINF:-1 ,国会频道2
+http://61.58.60.230:9000/live/124.m3u8
+#EXTINF:-1 ,世新综合
+http://61.58.60.230:9000/live/49.m3u8
+#EXTINF:-1 ,ELEVEN sports1
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:-1 ,ELEVEN sports1
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1 阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b528000_sleng.m3u8
+#EXTINF:-1 ,三立都会
+http://60.250.23.14:18080/setcity/index.m3u8
+#EXTINF:-1 ,環球电视
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 ,靖天卡通
+http://61.58.60.230:9000/live/207.m3u8
+#EXTINF:-1 ,靖洋卡通
+http://61.58.60.230:9000/live/206.m3u8
+#EXTINF:-1 ,靖天欢乐台
+http://61.58.60.230:9000/live/201.m3u8
+#EXTINF:-1 ,靖洋戏剧台
+http://61.58.60.230:9000/live/203.m3u8
+#EXTINF:-1 ,靖天资讯台
+http://61.58.60.230:9000/live/202.m3u8
+#EXTINF:-1 ,靖天育乐台
+http://61.58.60.230:9000/live/204.m3u8
+#EXTINF:-1 ,靖天国际台
+http://61.58.60.230:9000/live/205.m3u8
+#EXTINF:-1 ,幸福空間居家
+http://61.58.60.230:9000/live/125.m3u8
+#EXTINF:-1 ,大爱一
+http://61.58.60.230:9000/live/10.m3u8
+#EXTINF:-1 ,大爱二
+http://61.58.60.230:9000/live/191.m3u8
+#EXTINF:-1 ,耀才财经
+http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 ,点掌财经
+http://cdnlz.tv189.com/live/laozuo-600k/playlist.m3u8
+#EXTINF:-1 ,点掌财经
+http://bdlive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 ,纬来电影
+http://ott.fmiptv.vip/vlives/iptv_live/gego.php?id=6820af0bx8941de4e6d7e2c0f0da6f60b
+#EXTINF:-1 ,东森洋片
+http://ott.fmiptv.vip/vlives/iptv_live/gego.php?id=6c12cf74cbd3edd68d7b53b521b0cfb4
+#EXTINF:-1 ,台湾2
+http://61.58.60.230:9000/live/2.m3u8
+#EXTINF:-1 ,台湾3
+http://61.58.60.230:9000/live/3.m3u8
+#EXTINF:-1 ,nowtv
+http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
+#EXTINF:-1 ,now华剧台
+http://live.italkdd.com/cds160/hls/channel004/channel004.m3u8
+#EXTINF:-1 ,TVB财经资讯
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 ,香港31台
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 ,星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 ,凤凰香港台
+http://live.italkdd.com/cds160/hls/channel016/channel016.m3u8
+#EXTINF:-1 ,凤凰美洲台
+http://live.italkdd.com/cds160/hls/channel001/channel001.m3u8
+#EXTINF:-1 ,凤凰资讯台
+http://live.italkdd.com/cds160/hls/channel002/channel002.m3u8
+#EXTINF:-1 ,本港台
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 ,TVB翡翠
+http://123.207.42.38/tvb.php?type=jade
+#EXTINF:-1 ,翡翠台备
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 ,TVBj5
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 ,凤凰卫视HD
+http://223.110.243.155:80/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,凤凰资讯HD
+http://223.110.243.155:80/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,凤凰香港HD
+http://223.110.243.155:80/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,凤凰香港
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
+#EXTINF:-1 ,香港卫视备
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,奇妙电视备
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,健康卫视
+http://live.jkwshk.tv/AppName/StreamName.m3u8
+#EXTINF:-1 ,奇妙77台
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,TVB财经资讯
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 ,TVB娱乐新闻
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:-1 ,香港31台
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 ,星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 ,本港台
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 ,環球電視
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 ,澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 ,澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,澳门莲花
+http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 ,环球电视台
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 ,新华社中文
+http://live.xinhuashixun.com/live/chn01/desc.m3u8
+#EXTINF:-1 ,澳门咨询
+http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,澳视体育
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 ,澳视高清体育
+http://103.233.191.135/ch6/hd_ch6.live/playerlist.m3u8
+#EXTINF:-1 ,澳门1
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 ,澳门2
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 ,亚太第一卫视
+http://61.58.60.230:9000/live/254.m3u8
+#EXTINF:-1 ,亚太第一卫视备
+http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
+#EXTINF:-1 ,好莱坞中文
+http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
+#EXTINF:-1 ,好莱坞电影
+http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8
+#EXTINF:-1 ,HBO中文
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1 ,环球电影
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 ,Discovery 频道
+http://u02.live.ksyuncdn.17ugo.com/live/1528461345367105/index.m3u8
